@@ -14,7 +14,7 @@ Inkscape でコネクタツール機能を使って、オブジェクト間の�
 コネクタツールは、Inkscape 画面左側のコネクタツール(下図)を使っています。  
 ![](assets/images/2020-05-16-22-38-35.png)  
 
-目的の図が作成できたら、保存して Inkscape を閉じます。(ファイルを [broken.svg]//todo に保存しました)  
+目的の図が作成できたら、保存して Inkscape を閉じます。(ファイルを [broken.svg](https://github.com/ikazoichikawa/q2) に保存しました)  
 できた .svg ファイルを ie11 で開くと、Inkscape で作成したとおりに表示できている事が確認できます。  
 
 ↓ ie で表示した場合。正しく期待通りのコネクタが描画されている。  
